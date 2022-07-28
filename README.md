@@ -1,5 +1,5 @@
 # dio-desafio-primeiro-repositorio
-Desafio de Projeto da DIO sobre GitHub.
+Desafio de Projeto da DIO sobre Git/GitHub.
 
 ## Descrição do Desafio
 
